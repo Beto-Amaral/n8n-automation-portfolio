@@ -16,3 +16,17 @@ Automation workflow that runs every day at 8:00 AM, fetches the current weather 
 4. Telegram sends a formatted message with the day's weather data
 
 ## Example Telegram Message
+🌤 Weather forecast for Berlin:
+🌡 Temperature: 12°C
+💧 Humidity: 62%
+🌥 Weather: Patchy rain nearby
+🌅 Sunrise: 05:09 AM
+🌇 Sunset: 08:58 PM
+
+## Tools & Platforms
+- n8n Cloud (app.n8n.cloud)
+- wttr.in (free public weather API)
+- Telegram Bot API (@BotFather)
+
+## Status
+✅ Published and active — runs automatically every day at 8:00 AM
