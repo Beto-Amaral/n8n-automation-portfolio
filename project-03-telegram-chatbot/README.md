@@ -5,7 +5,7 @@ A Telegram chatbot that responds to user commands automatically.
 Users can type commands and receive instant responses with real data.
 
 ## Available Commands
-- **hello** / **hi** — Welcome message with available commands
+- **hello**  — Welcome message with available commands
 - **weather** — Current weather forecast for Berlin
 - **time** — Current time in Berlin
 - **help** — List of all available commands
