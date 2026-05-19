@@ -1,8 +1,8 @@
 # n8n Automation Portfolio
 
-Hi! I'm Roberto de Aquino, a Data Analyst and automation enthusiast building practical workflows with n8n.
+Hi! I'm Roberto Aquino, a Data Analyst and automation enthusiast building practical workflows with n8n.
 
-This repository contains real automation projects using webhooks, APIs, Google Sheets, Telegram and more.
+This repository contains real automation projects using webhooks, APIs, Google Sheets, Telegram, Jira and more.
 
 ---
 
@@ -12,7 +12,8 @@ This repository contains real automation projects using webhooks, APIs, Google S
 |---|---------|-------------|-------|
 | 01 | [Leads to Google Sheets](./project-01-leads-google-sheets/) | Captures lead data via Webhook and saves to Google Sheets automatically | Webhook, Google Sheets |
 | 02 | [Berlin Weather Telegram](./project-02-berlin-weather-telegram/) | Sends daily Berlin weather forecast to Telegram every morning at 7am | Schedule, HTTP Request, Code, Telegram |
-| 03 | [Assistant Chatbot](./project-03-telegram-chatbot/) | Telegram chatbot that responds to commands with live weather and time data | Telegram Trigger, Switch, HTTP Request, Code, Telegram |
+| 03 | [Aquino Assistant Chatbot](./project-03-telegram-chatbot/) | Telegram chatbot that responds to commands with live weather and time data | Telegram Trigger, Switch, HTTP Request, Code, Telegram |
+| 04 | [Weekly IT Ticket Report](./project-04-jira-weekly-report/) | Fetches Jira tickets every Monday and sends a formatted HTML report via Gmail | Schedule, Jira, Code, Gmail |
 
 ---
 
@@ -21,6 +22,8 @@ This repository contains real automation projects using webhooks, APIs, Google S
 - Google Sheets API
 - Telegram Bot API
 - wttr.in Weather API
+- Jira Cloud API
+- Gmail API
 
 ---
 
