@@ -1,6 +1,6 @@
 # n8n Automation Portfolio
 
-Hi! I'm Roberto Aquino, a Data Analyst, IT Support specialist, and automation enthusiast focused on building practical workflows with n8n.
+Hi! I'm Roberto de Aquino, a Data Analyst, IT Support specialist, and automation enthusiast focused on building practical workflows with n8n.
 
 This repository contains real automation projects using webhooks, APIs, Google Sheets, Telegram, Jira and more.
 
